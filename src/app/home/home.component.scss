@@ -1,0 +1,43 @@
+.main-container{
+	background-color:#FAFAFA;
+	background-image:url("/assets/Desktop .png");
+	background-repeat:no-repeat;
+}
+
+.images-container{}
+
+
+.text-image{
+	display:flex;
+	justify-content:center;
+}
+
+
+.headphone-image{
+	width:595px;
+	height:870px;
+	transform: rotate(-15deg);
+}
+
+.images-container{
+	padding-left:7%;
+	padding-top:7%;
+}
+
+.background-shape{
+	margin:0;
+	padding:0;
+	background: #C4C4C4;
+	border-radius: 300px;
+	transform: rotate(-49.18deg);
+	width: 1397px;
+	height: 623px;
+	position:absolute;
+}
+
+.text-container h1 {
+	font-weight: 900;
+	font-size: 200px;
+	margin-right:40%;
+	position:relative;
+}
